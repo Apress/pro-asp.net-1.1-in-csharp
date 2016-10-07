@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter26_WSE", "http://localhost/Chapter26_WSE/Chapter26_WSE.csproj", "{1AD5B36C-DD29-4350-AFAF-C26A80E8381E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsClient", "WindowsClient\WindowsClient.csproj", "{8444764D-933F-4682-8F96-DF2972FDFDE8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1AD5B36C-DD29-4350-AFAF-C26A80E8381E}.Debug.ActiveCfg = Debug|.NET
+		{1AD5B36C-DD29-4350-AFAF-C26A80E8381E}.Debug.Build.0 = Debug|.NET
+		{1AD5B36C-DD29-4350-AFAF-C26A80E8381E}.Release.ActiveCfg = Release|.NET
+		{1AD5B36C-DD29-4350-AFAF-C26A80E8381E}.Release.Build.0 = Release|.NET
+		{8444764D-933F-4682-8F96-DF2972FDFDE8}.Debug.ActiveCfg = Debug|.NET
+		{8444764D-933F-4682-8F96-DF2972FDFDE8}.Debug.Build.0 = Debug|.NET
+		{8444764D-933F-4682-8F96-DF2972FDFDE8}.Release.ActiveCfg = Release|.NET
+		{8444764D-933F-4682-8F96-DF2972FDFDE8}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

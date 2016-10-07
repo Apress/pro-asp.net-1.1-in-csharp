@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter26", "http://localhost/Chapter26/Chapter26.csproj", "{07BA7C6D-2CDD-4CF4-A171-3FC06CBD6856}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsClient", "Clients\WindowsClient\WindowsClient.csproj", "{8444764D-933F-4682-8F96-DF2972FDFDE8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter26_WebClient", "http://localhost/Chapter26_WebClient/Chapter26_WebClient.csproj", "{6EC96FBB-4542-4709-85A4-6319749FE028}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{07BA7C6D-2CDD-4CF4-A171-3FC06CBD6856}.Debug.ActiveCfg = Debug|.NET
+		{07BA7C6D-2CDD-4CF4-A171-3FC06CBD6856}.Debug.Build.0 = Debug|.NET
+		{07BA7C6D-2CDD-4CF4-A171-3FC06CBD6856}.Release.ActiveCfg = Release|.NET
+		{07BA7C6D-2CDD-4CF4-A171-3FC06CBD6856}.Release.Build.0 = Release|.NET
+		{8444764D-933F-4682-8F96-DF2972FDFDE8}.Debug.ActiveCfg = Debug|.NET
+		{8444764D-933F-4682-8F96-DF2972FDFDE8}.Debug.Build.0 = Debug|.NET
+		{8444764D-933F-4682-8F96-DF2972FDFDE8}.Release.ActiveCfg = Release|.NET
+		{8444764D-933F-4682-8F96-DF2972FDFDE8}.Release.Build.0 = Release|.NET
+		{6EC96FBB-4542-4709-85A4-6319749FE028}.Debug.ActiveCfg = Debug|.NET
+		{6EC96FBB-4542-4709-85A4-6319749FE028}.Debug.Build.0 = Debug|.NET
+		{6EC96FBB-4542-4709-85A4-6319749FE028}.Release.ActiveCfg = Release|.NET
+		{6EC96FBB-4542-4709-85A4-6319749FE028}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

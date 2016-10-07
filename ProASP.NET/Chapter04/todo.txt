@@ -1,0 +1,52 @@
+* Controls
+* VB 2005 Notebook
+* Pro ASP.NET 1.1, DB in VB
+* Creating Web Sites
+* (Book of VB 2005 & other updates)
+* (Professional SQL Server 2005 Programming)
+
+
+10 Weeks
+- 3 ASP.NET chapters/week
+- 1 Beg DB chapter/week
+- 1 UI chapter/week
+- (revisions of Excel, Beg ASP.NET)
+
+
+O'Reilly payment for articles?
+
+Week Ending July 2
+Week Ending July 9
+- VBE chapter 2
+
+Week Ending July 16
+- 7/20 Build a Configurable Page with Dynamic User Controls
+
+Week Ending July 23
+Week Ending July 30
+- Apress wire request
+
+
+- 9/1 InVB
+- 10/27 InVB
+- 12/27 InVB
+
+
+
+- (glasses)
+- (passport)
+- (October rent)
+
+- (RRSP invest)
+- (follow up Pinnacle My Object article)
+- (ideas for SQL Server 2005 Pro)
+
+
+
+
+Unassigned
+- MSDN article
+- repurpose Crypto book
+- follow up AntiScience book
+- Longhorn: The Missing Manual (First half 2005 beta)
+

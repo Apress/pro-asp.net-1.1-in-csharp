@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter21", "http://localhost/Chapter21/Chapter21.csproj", "{2034FFBD-38F3-44F8-9F9A-8C611ECE1BAD}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomServerControlsLibrary", "CustomServerControlsLibrary\CustomServerControlsLibrary.csproj", "{BCCBA468-EC58-4A80-8E6A-CE1CDA520D33}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{2034FFBD-38F3-44F8-9F9A-8C611ECE1BAD}.Debug.ActiveCfg = Debug|.NET
+		{2034FFBD-38F3-44F8-9F9A-8C611ECE1BAD}.Debug.Build.0 = Debug|.NET
+		{2034FFBD-38F3-44F8-9F9A-8C611ECE1BAD}.Release.ActiveCfg = Release|.NET
+		{2034FFBD-38F3-44F8-9F9A-8C611ECE1BAD}.Release.Build.0 = Release|.NET
+		{BCCBA468-EC58-4A80-8E6A-CE1CDA520D33}.Debug.ActiveCfg = Debug|.NET
+		{BCCBA468-EC58-4A80-8E6A-CE1CDA520D33}.Debug.Build.0 = Debug|.NET
+		{BCCBA468-EC58-4A80-8E6A-CE1CDA520D33}.Release.ActiveCfg = Release|.NET
+		{BCCBA468-EC58-4A80-8E6A-CE1CDA520D33}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

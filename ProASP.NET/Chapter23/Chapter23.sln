@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter23", "http://localhost/Chapter23/Chapter23.csproj", "{DCDA6B7B-F922-46EC-9EA1-8E3A8078ACBD}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradientLabelControl", "GradientLabelControl\GradientLabelControl.csproj", "{59F17435-4E24-4EF5-AA1D-9148833574A1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DCDA6B7B-F922-46EC-9EA1-8E3A8078ACBD}.Debug.ActiveCfg = Debug|.NET
+		{DCDA6B7B-F922-46EC-9EA1-8E3A8078ACBD}.Debug.Build.0 = Debug|.NET
+		{DCDA6B7B-F922-46EC-9EA1-8E3A8078ACBD}.Release.ActiveCfg = Release|.NET
+		{DCDA6B7B-F922-46EC-9EA1-8E3A8078ACBD}.Release.Build.0 = Release|.NET
+		{59F17435-4E24-4EF5-AA1D-9148833574A1}.Debug.ActiveCfg = Debug|.NET
+		{59F17435-4E24-4EF5-AA1D-9148833574A1}.Debug.Build.0 = Debug|.NET
+		{59F17435-4E24-4EF5-AA1D-9148833574A1}.Release.ActiveCfg = Release|.NET
+		{59F17435-4E24-4EF5-AA1D-9148833574A1}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
